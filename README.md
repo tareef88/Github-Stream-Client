@@ -261,10 +261,7 @@ function _renderContent(section){
 }
 ```
 
-
-
-
-we have added also a tabbar on top the displays the App Name
+when user press on the Name of the publisher the app will direct the user to the page the publisher page  .
 
 
 
