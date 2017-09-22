@@ -1,9 +1,10 @@
 # Github-Stream-Client
-Overview
+#### Overview
 
 The idea of this App is to fetch data from github Api and display it in a list in the react-native application and let the user scroll the latest issues happens with (java-Script) in the github database
 by querying:
 
+```
 
 {
   search(query: "java-script", type: ISSUE, first: 30) {
@@ -28,9 +29,13 @@ by querying:
   }
   }
 
+```
+
 
 
 and get a response in this form :
+
+```
 
 {
           "createdAt": "2017-08-17T08:08:31Z",
@@ -47,6 +52,7 @@ and get a response in this form :
             "login": "bibipl"
   }
 
+```
 
 
 then populating each element in a good looking Card.
