@@ -1,7 +1,7 @@
 # Github-Stream-Client
 This Assignment for Streaming Clients
 
-This App using 3 external Libraries , 
+This App using 3 external Libraries :
 1-react-apollo is an agent library that react native uses to communicate with a graphql API s where it allow react to send out the query to the server and get back the response . we can install this library by using this command :
 npm install --save react-apolo 
 
