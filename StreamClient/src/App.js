@@ -7,13 +7,11 @@ const Dimensions = require('Dimensions');
 
 const {height,width} = Dimensions.get('window');
 
-<<<<<<< HEAD
-// i made my first branch to edit 
+
+// i made my first branch to edit (the first branch edit again)
 //i made my second branch with a new line
 //i made my third git branch with the third line
-=======
-// (the first branch edit again)
->>>>>>> feature/firstbranch
+
 export default class App extends React.Component {
 
   createClient() {
