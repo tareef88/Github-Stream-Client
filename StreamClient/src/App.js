@@ -7,7 +7,7 @@ const Dimensions = require('Dimensions');
 
 const {height,width} = Dimensions.get('window');
 
-// i made my first branch to edit (the first branch edit again)
+// i made my first branch to edit (the first branch edit again after conflict)
 export default class App extends React.Component {
 
   createClient() {
