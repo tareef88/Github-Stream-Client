@@ -15,6 +15,7 @@ const {height,width} = Dimensions.get('window');
 // this is the first git for friday .
 
 
+
 export default class App extends React.Component {
 
   createClient() {
