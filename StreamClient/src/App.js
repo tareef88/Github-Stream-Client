@@ -13,6 +13,7 @@ const {height,width} = Dimensions.get('window');
 //i made my second branch with a new line
 //i made my third git branch with the third line
 // this is the first git for friday .
+// from third branch to develop .
 
 
 
